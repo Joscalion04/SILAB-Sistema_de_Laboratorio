@@ -48,6 +48,6 @@ Para ejecutar este proyecto localmente en IntelliJIDEA se requiere descargar las
 Este repositorio fue realizado como proyecto universitario.
 Integrantes:
  - Alessandro Cambronero
- - Ignacio Arritea
+ - Ignacio Arrieta
  - Domingo Camacho
  - Joseph Leon (Joscalion04)
